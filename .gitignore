@@ -1,5 +1,4 @@
 .shopify/
-shopify.theme.toml
 .shopify-cli.yml
 
 # Чувствительные данные

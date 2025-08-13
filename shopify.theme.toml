@@ -1,0 +1,3 @@
+[environments.development]
+store = "https://tradeshowbooths.myshopify.com/"
+theme = "151977132258"  # ID темы для разработки
